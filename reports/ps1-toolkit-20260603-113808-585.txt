@@ -1,9 +1,0 @@
-﻿ps1-toolkit Report
-Started: 2026-06-03T11:38:08
-Computer: DESKTOP-PNL9RR9
-Action: Scan; Preset: Safe; Apply: False
-
-
-Estimated cleanup: 0 B
-Removed: 0 B in 0 items
-Failures: 0
