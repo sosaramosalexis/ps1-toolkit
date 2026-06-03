@@ -20,7 +20,7 @@ It is designed to be practical and auditable: it scans first, defaults to dry-ru
 
 ## Run Directly From GitHub (no download required)
 ```
-& ([scriptblock]::Create((irm https://raw.githubusercontent.com/sosramalex/ps1-toolkit/main/ps1-toolkit.ps1)))
+& ([scriptblock]::Create((irm https://raw.githubusercontent.com/sosramalex/ps1-toolkit/main/ps1-toolkit.cmd)))
 ```
 
 ## Or download and run:
