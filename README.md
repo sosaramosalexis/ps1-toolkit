@@ -18,12 +18,7 @@ It is designed to be practical and auditable: it scans first, defaults to dry-ru
 
 ## Quick Start
 
-## Run Directly From GitHub (no download required)
-```
-& ([scriptblock]::Create((irm https://raw.githubusercontent.com/sosramalex/ps1-toolkit/main/ps1-toolkit.cmd)))
-```
-
-## Or download and run:
+## Download and run:
 Open PowerShell as Administrator from this folder:
 
 ```powershell
