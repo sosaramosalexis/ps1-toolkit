@@ -1,0 +1,22 @@
+﻿WinTune Report
+Started: 2026-06-03T10:46:07
+Computer: DESKTOP-PNL9RR9
+Action: WingetUpgrade; Preset: Safe; Apply: False
+
+Winget | winget.exe | Found | C:\Users\sosramalex\AppData\Local\Microsoft\WindowsApps\winget.exe
+Winget | Software upgrades | DryRun | Listed available upgrades only.
+Winget | List available upgrades | ExitCode 0 | 
+   - 
+                                                                                                                        
+
+   - 
+   \ 
+                                                                                                                        
+Name               Id                 Version          Available
+-----------------------------------------------------------------------
+Microsoft OneDrive Microsoft.OneDrive 21.220.1024.0005 26.078.0426.0002
+1 upgrades available.
+
+Estimated cleanup: 0 B
+Removed: 0 B in 0 items
+Failures: 0

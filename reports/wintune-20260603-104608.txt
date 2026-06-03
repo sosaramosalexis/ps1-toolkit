@@ -1,0 +1,19 @@
+﻿WinTune Report
+Started: 2026-06-03T10:46:07
+Computer: DESKTOP-PNL9RR9
+Action: WingetUninstall; Preset: Safe; Apply: False
+
+Winget | winget.exe | Found | C:\Users\sosramalex\AppData\Local\Microsoft\WindowsApps\winget.exe
+Winget | Uninstall Google.Chrome | DryRun | Showing installed package match only.
+Winget | Find installed package Google.Chrome | ExitCode -1978335212 | 
+   - 
+                                                                                                                        
+
+   - 
+   \ 
+                                                                                                                        
+No installed package found matching input criteria.
+
+Estimated cleanup: 0 B
+Removed: 0 B in 0 items
+Failures: 0

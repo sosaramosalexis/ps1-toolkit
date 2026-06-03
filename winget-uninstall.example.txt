@@ -1,0 +1,8 @@
+# Winget package IDs to remove, one per line.
+# Lines starting with # are ignored.
+#
+# Examples:
+# Google.Chrome
+# Mozilla.Firefox
+# 7zip.7zip
+

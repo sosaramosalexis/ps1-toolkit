@@ -1,0 +1,44 @@
+﻿{
+    "Tool":  "WinTune",
+    "Version":  "0.2.0",
+    "Started":  "2026-06-03T10:46:07",
+    "ComputerName":  "DESKTOP-PNL9RR9",
+    "UserName":  "sosramalex",
+    "IsAdministrator":  false,
+    "Action":  "WingetUninstall",
+    "Preset":  "Safe",
+    "Apply":  false,
+    "Items":  [
+                  {
+                      "Time":  "2026-06-03T10:46:07",
+                      "Category":  "Winget",
+                      "Name":  "winget.exe",
+                      "Status":  "Found",
+                      "Details":  "C:\\Users\\sosramalex\\AppData\\Local\\Microsoft\\WindowsApps\\winget.exe",
+                      "Bytes":  0
+                  },
+                  {
+                      "Time":  "2026-06-03T10:46:07",
+                      "Category":  "Winget",
+                      "Name":  "Uninstall Google.Chrome",
+                      "Status":  "DryRun",
+                      "Details":  "Showing installed package match only.",
+                      "Bytes":  0
+                  },
+                  {
+                      "Time":  "2026-06-03T10:46:08",
+                      "Category":  "Winget",
+                      "Name":  "Find installed package Google.Chrome",
+                      "Status":  "ExitCode -1978335212",
+                      "Details":  "\r\n   - \r\n                                                                                                                        \r\n\r\n   - \r\n   \\ \r\n                                                                                                                        \r\nNo installed package found matching input criteria.",
+                      "Bytes":  0
+                  }
+              ],
+    "Totals":  {
+                   "EstimatedBytes":  0,
+                   "RemovedBytes":  0,
+                   "RemovedItems":  0,
+                   "FailedItems":  0
+               },
+    "Completed":  "2026-06-03T10:46:08"
+}

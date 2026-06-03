@@ -1,0 +1,44 @@
+﻿{
+    "Tool":  "WinTune",
+    "Version":  "0.2.0",
+    "Started":  "2026-06-03T10:44:58",
+    "ComputerName":  "DESKTOP-PNL9RR9",
+    "UserName":  "sosramalex",
+    "IsAdministrator":  false,
+    "Action":  "WingetUninstall",
+    "Preset":  "Safe",
+    "Apply":  false,
+    "Items":  [
+                  {
+                      "Time":  "2026-06-03T10:44:58",
+                      "Category":  "Winget",
+                      "Name":  "winget.exe",
+                      "Status":  "Found",
+                      "Details":  "C:\\Users\\sosramalex\\AppData\\Local\\Microsoft\\WindowsApps\\winget.exe",
+                      "Bytes":  0
+                  },
+                  {
+                      "Time":  "2026-06-03T10:44:58",
+                      "Category":  "Winget",
+                      "Name":  "Uninstall Google.Chrome",
+                      "Status":  "DryRun",
+                      "Details":  "Showing installed package match only.",
+                      "Bytes":  0
+                  },
+                  {
+                      "Time":  "2026-06-03T10:45:03",
+                      "Category":  "Winget",
+                      "Name":  "Find installed package Google.Chrome",
+                      "Status":  "ExitCode -1978335212",
+                      "Details":  "  █████████████████████████████▒  99%\r\n  ██████████████████████████████  100%\r\n                                                                                                                        \r\nThe `msstore` source requires that you view the following agreements before using.\r\nTerms of Transaction: https://aka.ms/microsoft-store-terms-of-transaction\r\nThe source requires the current machine\u0027s 2-letter geographic region to be sent to the backend service to function properly (ex. \"US\").\r\n\r\n\r\n   - \r\n   \\ \r\n                                                                                                                        \r\nNo installed package found matching input criteria.",
+                      "Bytes":  0
+                  }
+              ],
+    "Totals":  {
+                   "EstimatedBytes":  0,
+                   "RemovedBytes":  0,
+                   "RemovedItems":  0,
+                   "FailedItems":  0
+               },
+    "Completed":  "2026-06-03T10:45:03"
+}

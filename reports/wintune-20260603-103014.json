@@ -1,0 +1,199 @@
+﻿{
+    "Tool":  "WinTune",
+    "Version":  "0.1.0",
+    "Started":  "2026-06-03T10:29:27",
+    "ComputerName":  "DESKTOP-PNL9RR9",
+    "UserName":  "sosramalex",
+    "IsAdministrator":  false,
+    "Action":  "Scan",
+    "Preset":  "Safe",
+    "Apply":  false,
+    "Items":  [
+                  {
+                      "Time":  "2026-06-03T10:29:29",
+                      "Category":  "Scan",
+                      "Name":  "Operating system",
+                      "Status":  "Info",
+                      "Details":  "Microsoft Windows 10 Pro build 19045",
+                      "Bytes":  0
+                  },
+                  {
+                      "Time":  "2026-06-03T10:29:29",
+                      "Category":  "Scan",
+                      "Name":  "Computer",
+                      "Status":  "Info",
+                      "Details":  "G752VS; 39.94 GB RAM; Intel(R) Core(TM) i7-6820HK CPU @ 2.70GHz",
+                      "Bytes":  0
+                  },
+                  {
+                      "Time":  "2026-06-03T10:29:29",
+                      "Category":  "Scan",
+                      "Name":  "Drive space",
+                      "Status":  "Info",
+                      "Details":  "C:: free 183.30 GB of 237.85 GB",
+                      "Bytes":  0
+                  },
+                  {
+                      "Time":  "2026-06-03T10:29:29",
+                      "Category":  "Scan",
+                      "Name":  "User temp",
+                      "Status":  "Info",
+                      "Details":  "C:\\Users\\SOSRAM~1\\AppData\\Local\\Temp",
+                      "Bytes":  44149078
+                  },
+                  {
+                      "Time":  "2026-06-03T10:29:29",
+                      "Category":  "Scan",
+                      "Name":  "Windows temp",
+                      "Status":  "Info",
+                      "Details":  "C:\\Windows\\Temp",
+                      "Bytes":  0
+                  },
+                  {
+                      "Time":  "2026-06-03T10:29:29",
+                      "Category":  "Scan",
+                      "Name":  "Thumbnail cache",
+                      "Status":  "Info",
+                      "Details":  "C:\\Users\\sosramalex\\AppData\\Local\\Microsoft\\Windows\\Explorer",
+                      "Bytes":  12113056
+                  },
+                  {
+                      "Time":  "2026-06-03T10:29:29",
+                      "Category":  "Scan",
+                      "Name":  "DirectX shader cache",
+                      "Status":  "Info",
+                      "Details":  "C:\\Users\\sosramalex\\AppData\\Local\\D3DSCache",
+                      "Bytes":  199660
+                  },
+                  {
+                      "Time":  "2026-06-03T10:29:29",
+                      "Category":  "Scan",
+                      "Name":  "Windows Update download cache",
+                      "Status":  "Info",
+                      "Details":  "C:\\Windows\\SoftwareDistribution\\Download",
+                      "Bytes":  1705528716
+                  },
+                  {
+                      "Time":  "2026-06-03T10:29:29",
+                      "Category":  "Scan",
+                      "Name":  "Microsoft Edge cache",
+                      "Status":  "Info",
+                      "Details":  "C:\\Users\\sosramalex\\AppData\\Local\\Microsoft\\Edge\\User Data\\Default\\Cache",
+                      "Bytes":  28321124
+                  },
+                  {
+                      "Time":  "2026-06-03T10:29:29",
+                      "Category":  "Scan",
+                      "Name":  "Chrome cache",
+                      "Status":  "Info",
+                      "Details":  "C:\\Users\\sosramalex\\AppData\\Local\\Google\\Chrome\\User Data\\Default\\Cache",
+                      "Bytes":  0
+                  },
+                  {
+                      "Time":  "2026-06-03T10:29:29",
+                      "Category":  "Scan",
+                      "Name":  "Firefox cache",
+                      "Status":  "Info",
+                      "Details":  "C:\\Users\\sosramalex\\AppData\\Roaming\\Mozilla\\Firefox\\Profiles",
+                      "Bytes":  0
+                  },
+                  {
+                      "Time":  "2026-06-03T10:29:29",
+                      "Category":  "Scan",
+                      "Name":  "Crash dumps",
+                      "Status":  "Info",
+                      "Details":  "C:\\Users\\sosramalex\\AppData\\Local\\CrashDumps",
+                      "Bytes":  0
+                  },
+                  {
+                      "Time":  "2026-06-03T10:30:13",
+                      "Category":  "Scan",
+                      "Name":  "Windows memory dumps",
+                      "Status":  "Info",
+                      "Details":  "C:\\Windows",
+                      "Bytes":  23675987288
+                  },
+                  {
+                      "Time":  "2026-06-03T10:30:13",
+                      "Category":  "Scan",
+                      "Name":  "Minidumps",
+                      "Status":  "Info",
+                      "Details":  "C:\\Windows\\Minidump",
+                      "Bytes":  0
+                  },
+                  {
+                      "Time":  "2026-06-03T10:30:13",
+                      "Category":  "Scan",
+                      "Name":  "Startup entries",
+                      "Status":  "Info",
+                      "Details":  "Found 3 entries. See JSON report for details.",
+                      "Bytes":  0
+                  }
+              ],
+    "Totals":  {
+                   "EstimatedBytes":  0,
+                   "RemovedBytes":  0,
+                   "RemovedItems":  0,
+                   "FailedItems":  0
+               },
+    "StartupEntries":  [
+                           {
+                               "Name":  "OneDrive",
+                               "Command":  "\"C:\\Users\\sosramalex\\AppData\\Local\\Microsoft\\OneDrive\\OneDrive.exe\" /background",
+                               "Location":  "HKU\\S-1-5-21-2353522051-1239406640-1853139689-1001\\SOFTWARE\\Microsoft\\Windows\\CurrentVersion\\Run"
+                           },
+                           {
+                               "Name":  "MicrosoftEdgeAutoLaunch_5952614E6FDA0EB3B24A2EADBCDEECDE",
+                               "Command":  "\"C:\\Program Files (x86)\\Microsoft\\Edge\\Application\\msedge.exe\" --no-startup-window --win-session-start",
+                               "Location":  "HKU\\S-1-5-21-2353522051-1239406640-1853139689-1001\\SOFTWARE\\Microsoft\\Windows\\CurrentVersion\\Run"
+                           },
+                           {
+                               "Name":  "SecurityHealth",
+                               "Command":  "%windir%\\system32\\SecurityHealthSystray.exe",
+                               "Location":  "HKLM\\SOFTWARE\\Microsoft\\Windows\\CurrentVersion\\Run"
+                           }
+                       ],
+    "RecentHotFixes":  [
+                           {
+                               "HotFixID":  "KB5020683",
+                               "InstalledOn":  {
+                                                   "value":  "\/Date(1780459200000)\/",
+                                                   "DateTime":  "Wednesday, June 3, 2026 12:00:00 AM"
+                                               },
+                               "Description":  "Update"
+                           },
+                           {
+                               "HotFixID":  "KB5066790",
+                               "InstalledOn":  {
+                                                   "value":  "\/Date(1780459200000)\/",
+                                                   "DateTime":  "Wednesday, June 3, 2026 12:00:00 AM"
+                                               },
+                               "Description":  "Security Update"
+                           },
+                           {
+                               "HotFixID":  "KB5066791",
+                               "InstalledOn":  {
+                                                   "value":  "\/Date(1780459200000)\/",
+                                                   "DateTime":  "Wednesday, June 3, 2026 12:00:00 AM"
+                                               },
+                               "Description":  "Security Update"
+                           },
+                           {
+                               "HotFixID":  "KB5011048",
+                               "InstalledOn":  {
+                                                   "value":  "\/Date(1780459200000)\/",
+                                                   "DateTime":  "Wednesday, June 3, 2026 12:00:00 AM"
+                                               },
+                               "Description":  "Update"
+                           },
+                           {
+                               "HotFixID":  "KB5033052",
+                               "InstalledOn":  {
+                                                   "value":  "\/Date(1780459200000)\/",
+                                                   "DateTime":  "Wednesday, June 3, 2026 12:00:00 AM"
+                                               },
+                               "Description":  "Update"
+                           }
+                       ],
+    "Completed":  "2026-06-03T10:30:14"
+}

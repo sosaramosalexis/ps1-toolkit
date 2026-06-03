@@ -1,0 +1,11 @@
+﻿WinTune Report
+Started: 2026-06-03T10:54:33
+Computer: DESKTOP-PNL9RR9
+Action: Backup; Preset: Safe; Apply: False
+
+Backup | Desktop | DryRun | Would copy C:\Users\sosramalex\Desktop to .\outputs\backup-preview\WinTune-Backup-sosramalex-20260603-105433\Desktop [2.57 KB]
+Backup | Destination | DryRun | .\outputs\backup-preview\WinTune-Backup-sosramalex-20260603-105433
+
+Estimated cleanup: 0 B
+Removed: 0 B in 0 items
+Failures: 0

@@ -1,0 +1,16 @@
+﻿WinTune Report
+Started: 2026-06-03T10:55:04
+Computer: DESKTOP-PNL9RR9
+Action: Backup; Preset: Safe; Apply: False
+
+Backup | Desktop | DryRun | Would copy C:\Users\sosramalex\Desktop to .\outputs\backup-preview\WinTune-Backup-sosramalex-20260603-105505\Desktop [2.57 KB]
+Backup | Documents | DryRun | Would copy C:\Users\sosramalex\Documents to .\outputs\backup-preview\WinTune-Backup-sosramalex-20260603-105505\Documents [107.87 KB]
+Backup | Downloads | DryRun | Would copy C:\Users\sosramalex\Downloads to .\outputs\backup-preview\WinTune-Backup-sosramalex-20260603-105505\Downloads [282 B]
+Backup | Pictures | DryRun | Would copy C:\Users\sosramalex\Pictures to .\outputs\backup-preview\WinTune-Backup-sosramalex-20260603-105505\Pictures [884 B]
+Backup | Music | DryRun | Would copy C:\Users\sosramalex\Music to .\outputs\backup-preview\WinTune-Backup-sosramalex-20260603-105505\Music [504 B]
+Backup | Videos | DryRun | Would copy C:\Users\sosramalex\Videos to .\outputs\backup-preview\WinTune-Backup-sosramalex-20260603-105505\Videos [504 B]
+Backup | Destination | DryRun | .\outputs\backup-preview\WinTune-Backup-sosramalex-20260603-105505
+
+Estimated cleanup: 0 B
+Removed: 0 B in 0 items
+Failures: 0

@@ -1,0 +1,36 @@
+﻿{
+    "Tool":  "WinTune",
+    "Version":  "0.3.0",
+    "Started":  "2026-06-03T10:55:04",
+    "ComputerName":  "DESKTOP-PNL9RR9",
+    "UserName":  "sosramalex",
+    "IsAdministrator":  false,
+    "Action":  "Backup",
+    "Preset":  "Safe",
+    "Apply":  false,
+    "Items":  [
+                  {
+                      "Time":  "2026-06-03T10:55:04",
+                      "Category":  "Backup",
+                      "Name":  "Desktop",
+                      "Status":  "DryRun",
+                      "Details":  "Would copy C:\\Users\\sosramalex\\Desktop to .\\outputs\\backup-preview\\WinTune-Backup-sosramalex-20260603-105504\\Desktop",
+                      "Bytes":  2634
+                  },
+                  {
+                      "Time":  "2026-06-03T10:55:05",
+                      "Category":  "Backup",
+                      "Name":  "Destination",
+                      "Status":  "DryRun",
+                      "Details":  ".\\outputs\\backup-preview\\WinTune-Backup-sosramalex-20260603-105504",
+                      "Bytes":  0
+                  }
+              ],
+    "Totals":  {
+                   "EstimatedBytes":  0,
+                   "RemovedBytes":  0,
+                   "RemovedItems":  0,
+                   "FailedItems":  0
+               },
+    "Completed":  "2026-06-03T10:55:05"
+}
