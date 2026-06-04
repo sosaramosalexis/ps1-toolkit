@@ -18,6 +18,10 @@ It is designed to be practical and auditable: it scans first, defaults to dry-ru
 
 ## Quick Start
 
+## Run directly from Github:
+```
+irm https://raw.githubusercontent.com/<user>/<repo>/main/install.ps1 | iex
+```
 ## Download and run:
 Open PowerShell as Administrator from this folder:
 
