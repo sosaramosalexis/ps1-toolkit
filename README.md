@@ -1,6 +1,5 @@
 <p align="center">
-  <img src="https://placehold.co/120x179" width="90" alt="ps1-toolkit logo">
-  <!-- Replace src with your 784×1168 logo image (displayed at 90px wide) -->
+  <img src="https://raw.githubusercontent.com/sosaramosalexis/ps1-toolkit/main/logo.jpg" width="90" alt="ps1-toolkit logo">
 </p>
 
 [![GitHub](https://img.shields.io/static/v1?label=GitHub&message=sosaramosalexis%2Fps1-toolkit&color=181717&logo=github)](https://github.com/sosaramosalexis/ps1-toolkit)
