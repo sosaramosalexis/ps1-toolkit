@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="https://placehold.co/120x179" width="90" alt="ps1-toolkit logo">
+  <!-- Replace src with your 784×1168 logo image (displayed at 90px wide) -->
+</p>
+
 [![GitHub](https://img.shields.io/badge/GitHub-sosaramosalexis/ps1-toolkit-181717?logo=github)](https://github.com/sosaramosalexis/ps1-toolkit)
 [![License](https://img.shields.io/badge/license-MIT-green)](LICENSE)
 [![PowerShell](https://img.shields.io/badge/powershell-5391FE?logo=powershell)]()
