@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://img.shields.io/badge/powershell-blue?logo=powershell&style=flat-square" alt="PowerShell">
+</p>
+
 # ps1-toolkit
 
 ps1-toolkit is a Windows technician cleanup, optimization, software maintenance, and backup CLI written in PowerShell 5.1 compatible syntax.
