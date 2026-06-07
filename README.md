@@ -7,9 +7,9 @@
 [![PowerShell](https://img.shields.io/badge/powershell-5391FE?logo=powershell)]()
 [![Platform](https://img.shields.io/badge/platform-Windows-blue)]()
 
-# ps1-toolkit
+# PS1-Toolkit- Cleanup and Optimize
 
-ps1-toolkit is a Windows technician cleanup, optimization, software maintenance, and backup CLI written in PowerShell 5.1 compatible syntax.
+PS1-Toolkit is a Windows technician cleanup, optimization, software maintenance, and backup CLI written in PowerShell 5.1 compatible syntax.
 
 It is designed to be practical and auditable: it scans first, defaults to dry-run mode for cleanup actions, writes logs, and avoids risky registry-cleaner behavior.
 
