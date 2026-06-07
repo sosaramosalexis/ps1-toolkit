@@ -3,7 +3,7 @@
   <!-- Replace src with your 784×1168 logo image (displayed at 90px wide) -->
 </p>
 
-[![GitHub](https://img.shields.io/badge/GitHub-sosaramosalexis/ps1-toolkit-181717?logo=github)](https://github.com/sosaramosalexis/ps1-toolkit)
+[![GitHub](https://img.shields.io/static/v1?label=GitHub&message=sosaramosalexis%2Fps1-toolkit&color=181717&logo=github)](https://github.com/sosaramosalexis/ps1-toolkit)
 [![License](https://img.shields.io/badge/license-MIT-green)](LICENSE)
 [![PowerShell](https://img.shields.io/badge/powershell-5391FE?logo=powershell)]()
 [![Platform](https://img.shields.io/badge/platform-Windows-blue)]()
